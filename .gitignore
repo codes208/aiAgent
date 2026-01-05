@@ -9,3 +9,12 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+.python-version
+pyproject.toml
+test_get_file_content.py
+test_get_files_info.py
+test_run_python_file.py
+test_write_file.py
+uv.lock
+
